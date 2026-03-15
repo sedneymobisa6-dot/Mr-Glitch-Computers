@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrglitchcomputers.co.ke/sitemap.xml
